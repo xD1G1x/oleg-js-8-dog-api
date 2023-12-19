@@ -6,7 +6,7 @@
     "homepage": "https://Your-nickname.github.io/wt-js-dog-search",
     "scripts": {
       "dev": "vite",
-      "build": "vite build --base=/wt-js-dog-search/",
+      "build": "vite build --base=/oleg-js-8-dog-api/",
       "preview": "vite preview",
       "predeploy": "npm run build",
       "deploy": "gh-pages -d dist"
