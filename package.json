@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://Your-nickname.github.io/wt-js-dog-search",
+    "homepage": "https://Your-nickname.github.io/oleg-js-8-dog-api",
     "scripts": {
       "dev": "vite",
       "build": "vite build --base=/oleg-js-8-dog-api/",
